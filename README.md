@@ -1,4 +1,16 @@
-# Semaforo_Sequencial_Atmega328p_em_CP
+# Sequential Semaphore programmed with Atmega328p.
+
+Code C
+The challenge is to design a sequential traffic light system. The system is
+composed of a button and 3 leds. After the button is pressed, the LEDs must
+be connected in the correct sequence. Let's assume the following sequence:
+
+Green -> Yellow -> Red -> Yellow + Red
+
+The sequence must be executed only once when the button is pressed. O
+interval during the sequence should be 1 second.
+
+# Semaforo_Sequencial_Atmega328p_em_C
 Semaforo Sequencial programado com Atmega328p.
 
 
